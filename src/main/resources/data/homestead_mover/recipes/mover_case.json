@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PP ",
+    "PEP",
+    " C "
+  ],
+  "key": {
+    "P": { "item": "minecraft:paper" },
+    "E": { "item": "minecraft:ender_pearl" },
+    "C": { "item": "minecraft:chest" }
+  },
+  "result": { "item": "homestead_mover:mover_case" }
+}
